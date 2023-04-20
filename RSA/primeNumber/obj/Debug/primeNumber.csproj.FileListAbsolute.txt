@@ -1,0 +1,37 @@
+c:\users\minhthuong\documents\visual studio 2015\Projects\primeNumber\primeNumber\bin\Debug\primeNumber.exe.config
+c:\users\minhthuong\documents\visual studio 2015\Projects\primeNumber\primeNumber\bin\Debug\primeNumber.exe
+c:\users\minhthuong\documents\visual studio 2015\Projects\primeNumber\primeNumber\bin\Debug\primeNumber.pdb
+c:\users\minhthuong\documents\visual studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.csprojResolveAssemblyReference.cache
+c:\users\minhthuong\documents\visual studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.Form1.resources
+c:\users\minhthuong\documents\visual studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.Properties.Resources.resources
+c:\users\minhthuong\documents\visual studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.csproj.GenerateResource.Cache
+c:\users\minhthuong\documents\visual studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.exe
+c:\users\minhthuong\documents\visual studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.pdb
+D:\Users\MINHTHUONG\Documents\Visual Studio 2015\Projects\primeNumber\primeNumber\bin\Debug\primeNumber.exe.config
+D:\Users\MINHTHUONG\Documents\Visual Studio 2015\Projects\primeNumber\primeNumber\bin\Debug\primeNumber.exe
+D:\Users\MINHTHUONG\Documents\Visual Studio 2015\Projects\primeNumber\primeNumber\bin\Debug\primeNumber.pdb
+D:\Users\MINHTHUONG\Documents\Visual Studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.csprojResolveAssemblyReference.cache
+D:\Users\MINHTHUONG\Documents\Visual Studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.Form1.resources
+D:\Users\MINHTHUONG\Documents\Visual Studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.Properties.Resources.resources
+D:\Users\MINHTHUONG\Documents\Visual Studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.csproj.GenerateResource.cache
+D:\Users\MINHTHUONG\Documents\Visual Studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.csproj.CoreCompileInputs.cache
+D:\Users\MINHTHUONG\Documents\Visual Studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.exe
+D:\Users\MINHTHUONG\Documents\Visual Studio 2015\Projects\primeNumber\primeNumber\obj\Debug\primeNumber.pdb
+D:\RSA_tool_C_sharp-master\RSA\primeNumber\bin\Debug\primeNumber.exe.config
+D:\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.exe
+D:\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.pdb
+D:\RSA_tool_C_sharp-master\RSA\primeNumber\bin\Debug\primeNumber.exe
+D:\RSA_tool_C_sharp-master\RSA\primeNumber\bin\Debug\primeNumber.pdb
+D:\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.csprojResolveAssemblyReference.cache
+D:\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.Form1.resources
+D:\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.Properties.Resources.resources
+D:\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\bin\Debug\primeNumber.exe.config
+C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.exe
+C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.pdb
+C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\bin\Debug\primeNumber.exe
+C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\bin\Debug\primeNumber.pdb
+C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.Form1.resources
+C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.csproj.GenerateResource.Cache
