@@ -28,46 +28,46 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btn_createKey = new System.Windows.Forms.Button();
+            this.btnTaoKey = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
-            this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.nudPNumber = new System.Windows.Forms.NumericUpDown();
+            this.nudQNumber = new System.Windows.Forms.NumericUpDown();
+            this.txtENumber = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtNNumber = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtPhiNumber = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.txtDNumber = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.btn_encrypt = new System.Windows.Forms.Button();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.txtVanBanMaHoa = new System.Windows.Forms.TextBox();
+            this.txtVanBanGiaiMa = new System.Windows.Forms.TextBox();
             this.btn_decrypt = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.txtVanBanGoc = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnXoa = new System.Windows.Forms.Button();
             this.btnThoat = new System.Windows.Forms.Button();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
-            this.groupBox2.SuspendLayout();
+            this.grbNhap = new System.Windows.Forms.GroupBox();
+            this.grbXuLy = new System.Windows.Forms.GroupBox();
+            ((System.ComponentModel.ISupportInitialize)(this.nudPNumber)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudQNumber)).BeginInit();
+            this.grbXuLy.SuspendLayout();
             this.SuspendLayout();
             // 
-            // btn_createKey
+            // btnTaoKey
             // 
-            this.btn_createKey.Location = new System.Drawing.Point(420, 49);
-            this.btn_createKey.Margin = new System.Windows.Forms.Padding(2);
-            this.btn_createKey.Name = "btn_createKey";
-            this.btn_createKey.Size = new System.Drawing.Size(103, 41);
-            this.btn_createKey.TabIndex = 4;
-            this.btn_createKey.Text = "Tính";
-            this.btn_createKey.UseVisualStyleBackColor = true;
-            this.btn_createKey.Click += new System.EventHandler(this.button1_Click);
+            this.btnTaoKey.Location = new System.Drawing.Point(420, 49);
+            this.btnTaoKey.Margin = new System.Windows.Forms.Padding(2);
+            this.btnTaoKey.Name = "btnTaoKey";
+            this.btnTaoKey.Size = new System.Drawing.Size(103, 41);
+            this.btnTaoKey.TabIndex = 4;
+            this.btnTaoKey.Text = "Tính";
+            this.btnTaoKey.UseVisualStyleBackColor = true;
+            this.btnTaoKey.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -87,37 +87,37 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(44, 13);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Chọn p:";
+            this.label2.Text = "Chọn q:";
             // 
-            // numericUpDown1
+            // nudPNumber
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(299, 40);
-            this.numericUpDown1.Margin = new System.Windows.Forms.Padding(2);
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(90, 20);
-            this.numericUpDown1.TabIndex = 8;
+            this.nudPNumber.Location = new System.Drawing.Point(299, 40);
+            this.nudPNumber.Margin = new System.Windows.Forms.Padding(2);
+            this.nudPNumber.Name = "nudPNumber";
+            this.nudPNumber.Size = new System.Drawing.Size(90, 20);
+            this.nudPNumber.TabIndex = 8;
             // 
-            // numericUpDown2
+            // nudQNumber
             // 
-            this.numericUpDown2.Location = new System.Drawing.Point(299, 85);
-            this.numericUpDown2.Margin = new System.Windows.Forms.Padding(2);
-            this.numericUpDown2.Maximum = new decimal(new int[] {
+            this.nudQNumber.Location = new System.Drawing.Point(299, 85);
+            this.nudQNumber.Margin = new System.Windows.Forms.Padding(2);
+            this.nudQNumber.Maximum = new decimal(new int[] {
             10000,
             0,
             0,
             0});
-            this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(90, 20);
-            this.numericUpDown2.TabIndex = 8;
+            this.nudQNumber.Name = "nudQNumber";
+            this.nudQNumber.Size = new System.Drawing.Size(90, 20);
+            this.nudQNumber.TabIndex = 8;
             // 
-            // textBox1
+            // txtENumber
             // 
-            this.textBox1.Location = new System.Drawing.Point(75, 135);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(76, 20);
-            this.textBox1.TabIndex = 9;
+            this.txtENumber.Location = new System.Drawing.Point(75, 135);
+            this.txtENumber.Margin = new System.Windows.Forms.Padding(2);
+            this.txtENumber.Name = "txtENumber";
+            this.txtENumber.ReadOnly = true;
+            this.txtENumber.Size = new System.Drawing.Size(76, 20);
+            this.txtENumber.TabIndex = 9;
             // 
             // label3
             // 
@@ -129,14 +129,14 @@
             this.label3.TabIndex = 10;
             this.label3.Text = "e number";
             // 
-            // textBox2
+            // txtNNumber
             // 
-            this.textBox2.Location = new System.Drawing.Point(249, 135);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(76, 20);
-            this.textBox2.TabIndex = 9;
+            this.txtNNumber.Location = new System.Drawing.Point(249, 135);
+            this.txtNNumber.Margin = new System.Windows.Forms.Padding(2);
+            this.txtNNumber.Name = "txtNNumber";
+            this.txtNNumber.ReadOnly = true;
+            this.txtNNumber.Size = new System.Drawing.Size(76, 20);
+            this.txtNNumber.TabIndex = 9;
             // 
             // label4
             // 
@@ -148,14 +148,14 @@
             this.label4.TabIndex = 10;
             this.label4.Text = "N number";
             // 
-            // textBox3
+            // txtPhiNumber
             // 
-            this.textBox3.Location = new System.Drawing.Point(458, 135);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(76, 20);
-            this.textBox3.TabIndex = 9;
+            this.txtPhiNumber.Location = new System.Drawing.Point(458, 135);
+            this.txtPhiNumber.Margin = new System.Windows.Forms.Padding(2);
+            this.txtPhiNumber.Name = "txtPhiNumber";
+            this.txtPhiNumber.ReadOnly = true;
+            this.txtPhiNumber.Size = new System.Drawing.Size(76, 20);
+            this.txtPhiNumber.TabIndex = 9;
             // 
             // label5
             // 
@@ -167,14 +167,14 @@
             this.label5.TabIndex = 10;
             this.label5.Text = "Φ number";
             // 
-            // textBox4
+            // txtDNumber
             // 
-            this.textBox4.Location = new System.Drawing.Point(648, 136);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(76, 20);
-            this.textBox4.TabIndex = 9;
+            this.txtDNumber.Location = new System.Drawing.Point(648, 136);
+            this.txtDNumber.Margin = new System.Windows.Forms.Padding(2);
+            this.txtDNumber.Name = "txtDNumber";
+            this.txtDNumber.ReadOnly = true;
+            this.txtDNumber.Size = new System.Drawing.Size(76, 20);
+            this.txtDNumber.TabIndex = 9;
             // 
             // label6
             // 
@@ -198,25 +198,25 @@
             this.btn_encrypt.UseVisualStyleBackColor = true;
             this.btn_encrypt.Click += new System.EventHandler(this.btn_encrypt_Click);
             // 
-            // textBox5
+            // txtVanBanMaHoa
             // 
-            this.textBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox5.Location = new System.Drawing.Point(66, 322);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox5.Multiline = true;
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(249, 131);
-            this.textBox5.TabIndex = 12;
+            this.txtVanBanMaHoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtVanBanMaHoa.Location = new System.Drawing.Point(66, 322);
+            this.txtVanBanMaHoa.Margin = new System.Windows.Forms.Padding(2);
+            this.txtVanBanMaHoa.Multiline = true;
+            this.txtVanBanMaHoa.Name = "txtVanBanMaHoa";
+            this.txtVanBanMaHoa.Size = new System.Drawing.Size(249, 131);
+            this.txtVanBanMaHoa.TabIndex = 12;
             // 
-            // textBox6
+            // txtVanBanGiaiMa
             // 
-            this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox6.Location = new System.Drawing.Point(328, 322);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox6.Multiline = true;
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(249, 131);
-            this.textBox6.TabIndex = 13;
+            this.txtVanBanGiaiMa.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtVanBanGiaiMa.Location = new System.Drawing.Point(328, 322);
+            this.txtVanBanGiaiMa.Margin = new System.Windows.Forms.Padding(2);
+            this.txtVanBanGiaiMa.Multiline = true;
+            this.txtVanBanGiaiMa.Name = "txtVanBanGiaiMa";
+            this.txtVanBanGiaiMa.Size = new System.Drawing.Size(249, 131);
+            this.txtVanBanGiaiMa.TabIndex = 13;
             // 
             // btn_decrypt
             // 
@@ -248,13 +248,13 @@
             this.label8.Size = new System.Drawing.Size(0, 13);
             this.label8.TabIndex = 14;
             // 
-            // textBox7
+            // txtVanBanGoc
             // 
-            this.textBox7.Location = new System.Drawing.Point(115, 202);
-            this.textBox7.Margin = new System.Windows.Forms.Padding(2);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(518, 20);
-            this.textBox7.TabIndex = 15;
+            this.txtVanBanGoc.Location = new System.Drawing.Point(115, 202);
+            this.txtVanBanGoc.Margin = new System.Windows.Forms.Padding(2);
+            this.txtVanBanGoc.Name = "txtVanBanGoc";
+            this.txtVanBanGoc.Size = new System.Drawing.Size(518, 20);
+            this.txtVanBanGoc.TabIndex = 15;
             // 
             // label9
             // 
@@ -266,15 +266,15 @@
             this.label9.TabIndex = 16;
             this.label9.Text = "Đoạn văn bản:";
             // 
-            // button1
+            // btnXoa
             // 
-            this.button1.Location = new System.Drawing.Point(599, 344);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(89, 32);
-            this.button1.TabIndex = 19;
-            this.button1.Text = "Xoá";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            this.btnXoa.Location = new System.Drawing.Point(599, 344);
+            this.btnXoa.Name = "btnXoa";
+            this.btnXoa.Size = new System.Drawing.Size(89, 32);
+            this.btnXoa.TabIndex = 19;
+            this.btnXoa.Text = "Xoá";
+            this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // btnThoat
             // 
@@ -286,26 +286,26 @@
             this.btnThoat.UseVisualStyleBackColor = true;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
-            // groupBox1
+            // grbNhap
             // 
-            this.groupBox1.Location = new System.Drawing.Point(14, 12);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(732, 247);
-            this.groupBox1.TabIndex = 21;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Nhập số:";
-            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
+            this.grbNhap.Location = new System.Drawing.Point(14, 12);
+            this.grbNhap.Name = "grbNhap";
+            this.grbNhap.Size = new System.Drawing.Size(732, 247);
+            this.grbNhap.TabIndex = 21;
+            this.grbNhap.TabStop = false;
+            this.grbNhap.Text = "Nhập số:";
+            this.grbNhap.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
-            // groupBox2
+            // grbXuLy
             // 
-            this.groupBox2.Controls.Add(this.btn_encrypt);
-            this.groupBox2.Controls.Add(this.btn_decrypt);
-            this.groupBox2.Location = new System.Drawing.Point(14, 265);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(732, 228);
-            this.groupBox2.TabIndex = 22;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Giải mã và mã hoá:";
+            this.grbXuLy.Controls.Add(this.btn_encrypt);
+            this.grbXuLy.Controls.Add(this.btn_decrypt);
+            this.grbXuLy.Location = new System.Drawing.Point(14, 265);
+            this.grbXuLy.Name = "grbXuLy";
+            this.grbXuLy.Size = new System.Drawing.Size(732, 228);
+            this.grbXuLy.TabIndex = 22;
+            this.grbXuLy.TabStop = false;
+            this.grbXuLy.Text = "Giải mã và mã hoá:";
             // 
             // Form1
             // 
@@ -313,28 +313,28 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(762, 499);
             this.Controls.Add(this.btnThoat);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnXoa);
             this.Controls.Add(this.label9);
-            this.Controls.Add(this.textBox7);
+            this.Controls.Add(this.txtVanBanGoc);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.textBox6);
-            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.txtVanBanGiaiMa);
+            this.Controls.Add(this.txtVanBanMaHoa);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.numericUpDown2);
-            this.Controls.Add(this.numericUpDown1);
-            this.Controls.Add(this.btn_createKey);
+            this.Controls.Add(this.txtDNumber);
+            this.Controls.Add(this.txtPhiNumber);
+            this.Controls.Add(this.txtNNumber);
+            this.Controls.Add(this.txtENumber);
+            this.Controls.Add(this.nudQNumber);
+            this.Controls.Add(this.nudPNumber);
+            this.Controls.Add(this.btnTaoKey);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.grbNhap);
+            this.Controls.Add(this.grbXuLy);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
@@ -342,40 +342,40 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Chương trình giải mã và hoá hoá RSA";
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
-            this.groupBox2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.nudPNumber)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudQNumber)).EndInit();
+            this.grbXuLy.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-        private System.Windows.Forms.Button btn_createKey;
+        private System.Windows.Forms.Button btnTaoKey;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
-        private System.Windows.Forms.NumericUpDown numericUpDown2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.NumericUpDown nudPNumber;
+        private System.Windows.Forms.NumericUpDown nudQNumber;
+        private System.Windows.Forms.TextBox txtENumber;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtNNumber;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtPhiNumber;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox txtDNumber;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button btn_encrypt;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox txtVanBanMaHoa;
+        private System.Windows.Forms.TextBox txtVanBanGiaiMa;
         private System.Windows.Forms.Button btn_decrypt;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.TextBox txtVanBanGoc;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnXoa;
         private System.Windows.Forms.Button btnThoat;
-        private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.GroupBox grbNhap;
+        private System.Windows.Forms.GroupBox grbXuLy;
     }
 }
 

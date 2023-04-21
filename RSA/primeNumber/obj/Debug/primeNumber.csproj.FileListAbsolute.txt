@@ -35,3 +35,14 @@ C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug
 C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.Form1.resources
 C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.Properties.Resources.resources
 C:\Users\Administrator\Desktop\RSA_tool_C_sharp-master\RSA\primeNumber\obj\Debug\primeNumber.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\bin\Debug\primeNumber.exe.config
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\bin\Debug\primeNumber.exe
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\bin\Debug\primeNumber.pdb
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\obj\Debug\primeNumber.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\obj\Debug\primeNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\obj\Debug\primeNumber.Form1.resources
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\obj\Debug\primeNumber.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\obj\Debug\primeNumber.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\obj\Debug\primeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\obj\Debug\primeNumber.exe
+C:\Users\Administrator\Desktop\BÀI TẬP LỚN KÌ 4 VMU\ĐỀ TÀI ATBMTT\RSAEncryptionAndDecryption\RSA\primeNumber\obj\Debug\primeNumber.pdb
