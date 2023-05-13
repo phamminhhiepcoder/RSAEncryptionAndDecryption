@@ -158,6 +158,8 @@ namespace primeNumber
                 txtVanBanMaHoa.Clear();
                 txtVanBanGiaiMa.Clear();
                 txtVanBanGoc.Clear();
+                giaima.Clear();
+                mang.Clear();
 
             }
         }
